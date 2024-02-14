@@ -6,7 +6,7 @@ Insert gif or link to demo [@https://abdarheemfarhen.github.io/respons/index.htm
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+Add badges from somewhere like: [shields.io](https://abdarheemfarhen.github.io/respons/index.html)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 

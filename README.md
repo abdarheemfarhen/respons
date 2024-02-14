@@ -2,12 +2,7 @@
 
 ## Demo
 
-Insert gif or link to demo
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
+Insert gif or link to demo [@prdicthtml](https://www.github.com/octokatherine)
 
 ## Badges
 
